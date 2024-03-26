@@ -1,1 +1,1 @@
-# bookbot
+# BookBot is a book statiscal analyzer
